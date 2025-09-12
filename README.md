@@ -23,7 +23,3 @@ Join our Discord server for exclusive **Fortnite leaks**, updates on the tweaker
 2. Follow the setup instructions provided.
 3. Launch Fortnite through the custom launcher and enjoy optimized gameplay!
 
-
-### Contribute
-Have ideas or want to contribute? Fork this repository and submit a pull request. Let's make Fortnite gameplay even better together!
-
