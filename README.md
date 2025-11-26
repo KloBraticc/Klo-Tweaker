@@ -1,3 +1,9 @@
+
+Update on readme make sure to run program as ADMIN or tweaks will not all work
+
+
+
+
 # Fortnite Tweaker and Launcher 🚀
 
 A professional **Fortnite Tweaker** designed to optimize your gaming experience! This tool helps resolve FPS drops, reduces ping, and includes a custom-built **Fortnite Launcher** that automatically optimizes Fortnite at launch.
